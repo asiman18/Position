@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Body{
+    width: 100%;
+    height: 740px;
+    background-image: url(/img/3906115dea4036fa797272df78a78a46_divar-kagizlari-oboylar-divar-kagizlarinin-satisi-kataloqu-ve-qiymetleri.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.container__1{
+    width: 470px;
+    height: 500px;
+    background-image: url(/img/497992-d22f408f0ceeb290e18913520b134705.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.items__1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.items__2{
+    text-decoration: line-through;
+    color: orangered;
+    font-weight: bold;
+    font-size: 18px;
+}
+.items__3{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 50px;
+}
+.items__4,.items__5,.items__6,.items__7{
+    color: black;
+}
+.btn{
+    padding: 10px;
+    color: white;
+    background-color: rgb(43, 43, 176);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: transparent;
+    
+}
+.container__2{
+    width: 470px;
+    height: 500px;
+    background-image: url(/img/497992-d22f408f0ceeb290e18913520b134705.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.items2__1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.items2__2{
+    text-decoration: line-through;
+    color: orangered;
+    font-weight: bold;
+    font-size: 18px;
+}
+.items2__3{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 50px;
+
+}
+.items2__4 , .items__5 , .items2__6 , .items2__7{
+    color: black;
+
+}
+.btn__2{
+    padding: 10px;
+    color: white;
+    background-color: rgb(43, 43, 176);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: transparent;
+}
+.container__3{
+    width: 470px;
+    height: 500px;
+    background-image: url(/img/497992-d22f408f0ceeb290e18913520b134705.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.items3__1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+.items3__2{
+    text-decoration: line-through;
+    color: orangered;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.items3__3{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 50px;
+}
+.items3__4 , .items3__5 , .items3__6 , .items3__7{
+    color: black;
+}
+.btn__3{
+    padding: 10px;
+    color: white;
+    background-color: rgb(43, 43, 176);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: transparent;
+}
